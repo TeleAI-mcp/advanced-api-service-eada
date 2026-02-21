@@ -1,1 +1,3 @@
-# advanced-api-service-eada
+# Advanced Api Service Eada
+
+A REST API service for modern development workflows.
